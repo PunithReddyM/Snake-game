@@ -1,0 +1,18 @@
+{
+  "name": "Retro Snake Game",
+  "short_name": "Snake",
+  "start_url": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#1e293b",
+  "theme_color": "#334155",
+  "description": "A classic snake game inspired by the one on old Nokia mobile phones.",
+  "icons": [
+    {
+      "src": "data:image/svg+xml;charset=utf-8,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3e%3crect width='100' height='100' rx='20' fill='%23a3e635'/%3e%3crect x='25' y='25' width='15' height='15' fill='%231e293b'/%3e%3crect x='60' y='25' width='15' height='15' fill='%231e293b'/%3e%3c/svg%3e",
+      "type": "image/svg+xml",
+      "sizes": "any",
+      "purpose": "any"
+    }
+  ]
+}
