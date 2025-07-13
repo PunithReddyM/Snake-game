@@ -1,0 +1,5 @@
+{
+  "name": "Retro Snake Game",
+  "description": "A classic snake game inspired by the one on old Nokia mobile phones. Now an installable Progressive Web App (PWA) that works offline!",
+  "requestFramePermissions": []
+}
